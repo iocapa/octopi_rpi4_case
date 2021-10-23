@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name octopi_rpi4_case)(type Legacy)(uri ${KIPRJMOD}/library/octopi_rpi4_case.lib)(options "")(descr ""))
+)
